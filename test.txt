@@ -6,3 +6,4 @@ welcome to git
 We are going to record some git commands here.eg add and so on.
 b
 a
+c
